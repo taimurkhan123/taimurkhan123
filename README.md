@@ -7,17 +7,7 @@
 🎯 Goal: Become a Professional Software Engineer  
 ---
 
-# 👋 About Me
-
-🎓 Computer Science Student  
-🚀 Aspiring Full Stack Developer (MERN Stack)  
-💻 Passionate about Web Development & UI Design  
-🌱 Learning React, Node.js, MongoDB & Tailwind CSS  
-🎯 Goal: Become a Professional Software Engineer  
-
----
-
-## ⚡ About
+## ⚡ About Me
 
 - 🔭 I’m currently improving my coding skills  
 - 👯 I’m looking to collaborate on web development projects  
