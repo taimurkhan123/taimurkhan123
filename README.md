@@ -1,38 +1,65 @@
-Hi, I'm Taimur Khan 👋
+# Hi 👋 I'm Taimur Khan  
 
-🎓 BS Computer Science Student
+💻 Aspiring Full Stack Developer | MERN Enthusiast  
+🚀 Learning Web Development & Building Projects  
+🌱 Currently improving React, Node.js & Databases  
+📫 Reach me: tk8606828@gmail.com 
 
-🚀 CodeAlpha Intern
+---
 
-🌱 Passionate about Web Development and Programming
-
-🔭 About Me
-
-- 🔭 I’m currently working on Frontend Development Projects
+## 🧑‍💻 About Me
+- 🔭 I’m currently working on web development projects
 - 
-- 🌱 I’m currently learning React.js and MERN Stack
+- 🌱 I’m currently learning MERN Stack  
+- 👯 I’m looking to collaborate on open-source projects
 - 
-- 👯 I’m looking to collaborate on Web Development Projects
+- 💬 Ask me about HTML, CSS, JavaScript, React
 - 
-- 💬 Ask me about HTML, CSS, JavaScript, C++, and Java
-- 
-- ⚡ Fun fact: I love turning ideas into websites
+- ⚡ Fun fact: I love building real-world projects  
 
-🛠️ Tech Stack
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,cpp,git,github,vscode" />
-</p>🏆 Achievements
+## 🚀 Tech Stack
 
-- 🎉 Selected for CodeAlpha Internship
-- 🎉 Selected for Progree Internship
-- 📚 Computer Science Student
-- 💻 Building Real-World Web Projects
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-blue)
 
-📊 GitHub Stats
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Express](https://img.shields.io/badge/Express-black)
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=taimurkhan123&show_icons=true)
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
 
-📫 Connect With Me
+---
 
-LinkedIn: https://www.linkedin.com/in/taimur-khan123
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+
+---
+
+## 🏆 Achievements
+- 🎓 Completed Web Development Internship  
+- 🥇 Built multiple frontend projects  
+- 🚀 Actively learning MERN stack  
+
+---
+
+## 📂 Featured Projects
+- 🔗 Portfolio Website  
+- 🔗 Image Gallery App  
+- 🔗 To-Do App with React  
+
+---
+
+## 🌐 Connect With Me
+- GitHub: https://github.com/taimurkhan123
+- LinkedIn:https://www.linkedin.com/in/taimur-khan123
